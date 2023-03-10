@@ -1,6 +1,6 @@
 # MpBP: Verifying Robustness of Neural Networks with Multi-path Bound Propagation
 
-**The FSE slides can be download [here](./FSE_speech.pdf).**
+**The FSE slides can be downloaded [here](./FSE_speech.pdf).**
 
 
 ![mpbp](./mpbp_poster.png)
